@@ -6,7 +6,7 @@
 
 <br>
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,,git,github)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,vscode,git,github)
 <br>
 
 <br>
@@ -17,6 +17,6 @@
 
 <br>
 
-<img src="https://github.com/jeffersonkako/jeffersonkako/assets/104142117/cd4e0a7c-9415-481f-99d0-093f05c98331" width="400"> 
+<img src="" width="400"> 
 
 </div>
