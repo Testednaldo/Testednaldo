@@ -29,9 +29,7 @@
 
 ## 📂 Meus Projetos
 
-📌 [Site de Casamento](https://github.com/EdnaldoBarros)  
-📌 [Aplicação Web: Planilha de Gastos](https://github.com/EdnaldoBarros)  
-📌 Outros projetos estão disponíveis no meu [GitHub Repositories](https://github.com/EdnaldoBarros?tab=repositories)
+📌 Projetos estão disponíveis no meu [GitHub Repositories](https://github.com/EdnaldoBarros?tab=repositories)
 
 ---
 
